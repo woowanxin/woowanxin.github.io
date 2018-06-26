@@ -26,9 +26,6 @@
     offset: 57
   });
 
-// Instagram feed
-<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/90510ec5ea07516ca9c534959a35c784.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-
   // Collapse Navbar
   var navbarCollapse = function() {
     if ($("#mainNav").offset().top > 100) {
