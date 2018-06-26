@@ -121,18 +121,18 @@ img::-moz-selection {
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
   color: #D7C9AA !important;
-  background-color: #DBF9F4;
+  background-color: transparent;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
-  background-color: #DBF9F4;
+  background-color: #;
 }
 
 @media (min-width: 992px) {
   #mainNav {
     border-color: transparent;
-    background-color: #DBF9F4;
+    background-color: transparent;
   }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
