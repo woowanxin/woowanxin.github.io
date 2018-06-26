@@ -126,7 +126,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
-  background-color: #;
+  background-color: #000000;
 }
 
 @media (min-width: 992px) {
