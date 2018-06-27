@@ -47,7 +47,7 @@ h6 {
 }
 
 .bg-blog {
-  background-color: #96ACB7 !important;
+  background-color: #DBF9F4 !important;
 }
 
 .bg-music {
@@ -58,7 +58,9 @@ h6 {
   background-color: #D7C9AA !important;
 }
 
-
+.bg-cause {
+ background-color: #96ACB7 !important;
+}
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
