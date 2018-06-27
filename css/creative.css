@@ -43,11 +43,11 @@ h6 {
 }
 
 .bg-dark {
-  background-color: #D4E4BC!important;
+  background-color: #D4E4BC !important;
 }
 
 .bg-darker {
-  background-color: #96ACB7!important;
+  background-color: #96ACB7 !important;
 }
 
 
@@ -126,7 +126,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
-  background-color: #000000;
+  background-color: transparent;
 }
 
 @media (min-width: 992px) {
